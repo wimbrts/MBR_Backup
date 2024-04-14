@@ -1,6 +1,0 @@
-<!-- Nu2Menu entry for Tiny Hexer -->
-<NU2MENU>
-  <MENU ID="Programs">
-    <MITEM TYPE="ITEM" DISABLED="@Not(@FileExists(@GetProgramDrive()\Programs\tinyhexer\mpth_small.exe))" CMD="RUN" FUNC="@GetProgramDrive()\Programs\tinyhexer\mpth_small.exe">Tiny Hex Editor</MITEM>
-  </MENU>
-</NU2MENU>
